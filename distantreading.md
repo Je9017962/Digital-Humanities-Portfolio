@@ -21,9 +21,10 @@ I also tried Copilot, I did not use the new ChatGPT-5. Here's our conversation.
 
 I learned that it can produce a summary of the provided text.
 
-Check out my image! 
-[](Copilotimg1.png)
+![I learned that it can produce a summary of the provided text.](Copilot1.png)
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+I learned it can provide what information is accurate and what can not be verified.
 
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+![I learned it can provide what information is accurate and what can not be verified](Copilot2.png)
+
+
