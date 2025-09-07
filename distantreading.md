@@ -14,11 +14,15 @@ I learned about the process and wheiter it was possible or not to create fully d
 
 Check out my image!
 
-![Words from Digitala Vetenskapliga - image, detail, product, placehold.it, chatgpt, webshop, portfolio, copilot, sonarqube, analysis, 300x300](voyant img.png)
+![Words from Digitala Vetenskapliga - image, detail, product, placehold.it, chatgpt, webshop, portfolio, copilot, sonarqube, analysis,300x300](Voyant.png)
 
 ---
 I also tried Copilot, I did not use the new ChatGPT-5. Here's our conversation.
 
+I learned that it can produce a summary of the provided text.
+
+Check out my image! 
+[](Copilotimg1.png)
 
 This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
 
