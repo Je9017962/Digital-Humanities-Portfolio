@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Final Research Project
+title: Research Project
 ---  
 
 # My Final Research Project  
