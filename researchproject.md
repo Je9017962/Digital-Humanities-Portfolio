@@ -40,10 +40,3 @@ Zhang, Wei, et al. “Artificial Intelligence-Based Web Design and Development.�
   }
 </style>
 
-<p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
-</p>
-
-<p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
-</p>
